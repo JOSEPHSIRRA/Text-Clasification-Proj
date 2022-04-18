@@ -13,6 +13,7 @@ from nltk.stem import WordNetLemmatizer
 from sklearn.model_selection import train_test_split
 import pandas as pd #importing library which is required to conduct this research.
 import numpy as np
+//uyguygu
 import matplotlib.pyplot as plt
 import tensorflow as tf
 #Above library help in  performing the natural language processing, such as tokenization, lemmatization or more.
